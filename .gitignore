@@ -1,2 +1,3 @@
+*.pdf
 test*
 .ipynb_checkpoints/
